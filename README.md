@@ -1,5 +1,5 @@
 # IBM Data Science Python Project
-## # Extracting and Visualizing Stock Data
+## Extracting and Visualizing Stock Data
 
 Related Projects:
 - [IBM Data Science](https://github.com/eveliinahampus/ibm-datascience)
@@ -9,6 +9,13 @@ Related Projects:
 ## Project Overview
 
 This project involves extracting stock and revenue data for Tesla and GameStop, then visualizing it using graphs. By utilizing `yfinance` and web scraping techniques, the data is processed and displayed to help make informed decisions.
+
+## Project Structure
+```
+ibm-stockdata/  
+├── Final_Assignment.ipynb # Jupyter notebook for the final assignment
+└── README.md              # Project documentation
+```
 
 ## Table of Contents
 - Define a Function that Makes a Graph
