@@ -6,6 +6,7 @@ Related Projects:
 - [IBM SpaceX Dash](https://github.com/eveliinahampus/ibm-spacex-dash)
 - [IBM Github Final Project](https://github.com/eveliinahampus/ibm-github-final-project)
 
+
 ## Project Overview
 
 This project involves extracting stock and revenue data for Tesla and GameStop, then visualizing it using graphs. By utilizing `yfinance` and web scraping techniques, the data is processed and displayed to help make informed decisions.
